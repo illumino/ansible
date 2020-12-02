@@ -43,7 +43,7 @@ EXAMPLES = """
 RETURN = """
   _list:
     description:
-      - A list composed of lists paring the elements of the input lists
+      - A list composed of lists pairing the elements of the input lists
     type: list
 """
 
